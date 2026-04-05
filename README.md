@@ -56,7 +56,7 @@ A beautiful, real-time sentiment analysis dashboard powered by state-of-the-art 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sentiment-dashboard.git
+git clone https://github.com/Jit-das01/sentiment-analysis-dashboard.git
 cd sentiment-dashboard
 ```
 
